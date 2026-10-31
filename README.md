@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou Victor Romero 👋
 
-<!--
-**VictorRomero-Cybersecurity/VictorRomero-Cybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Segurança da Informação — Universidade Nove de Julho.
 
-Here are some ideas to get you started:
+## Sobre mim
+Estou desenvolvendo meus conhecimentos na área de Segurança da Informação, com foco em infraestrutura, redes, sistemas Linux e análise de segurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos e tecnologias
+- Linux e Kali Linux
+- Redes de computadores
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- Windows
+- Análise de logs e conceitos de SOC
+- Python
+
+## Projetos práticos
+- Laboratório de análise de segurança (Kali Linux, Windows e Ubuntu)
+- Investigação e análise de logs
+- Configuração e análise de redes
+- Captura e análise de pacotes com Wireshark
+
+## Objetivo profissional
+Atuar como Analista de Segurança da Informação Júnior, contribuindo para o monitoramento, identificação e prevenção de ameaças.
+
+---
+*Em constante aprendizado e evolução em Cybersecurity.*
